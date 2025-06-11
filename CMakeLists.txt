@@ -3,5 +3,5 @@ project(dynamic-array)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(dynamic-array test.cpp)
+add_executable(dynamic-array main.cpp)
 
